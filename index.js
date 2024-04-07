@@ -1,5 +1,5 @@
 module.exports = {
     rules: {
-        'no-moment': require('./no-moment'),
+        'no-moment': require('./eslint_rules/no-moment'),
     }
 };
