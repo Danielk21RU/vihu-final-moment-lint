@@ -16,7 +16,7 @@ jobs:
           with:
             node-version: '21' 
             registry-url: https://npm.pkg.github.com/
-            scope: '@Danielk21RU'
+            scope: '@danielk21ru'
         - name: Npm install 
           run: npm i
         - name: Publish the package to GitHub Packages
